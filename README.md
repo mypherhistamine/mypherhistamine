@@ -10,7 +10,10 @@
 
 - 💬 Ask me about **Flutter , Dart , Data Structures**
 
-- 📫 How to reach me **rishabhmishra23599@gmail.com**
+- 📫 How to reach me **rishabhmishra23599@gmail.com** ***I check my email ;)*** 
+
+
+- My LinkedIn Profile [LinkedIn](https://www.linkedin.com/in/rishabh-mishra-b378621b9/)
 
 
 <h3 align="left">Languages and Tools:</h3>
