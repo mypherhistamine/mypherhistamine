@@ -12,8 +12,12 @@
 
 - 📫 How to reach me **rishabhmishra23599@gmail.com** ***I check my email ;)*** 
 
+- 📫 How to reach me **https://www.linkedin.com/in/rishabh-mishra-b378621b9/**
 
-- My LinkedIn Profile [LinkedIn](https://www.linkedin.com/in/rishabh-mishra-b378621b9/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://leetcode.com/mypherhistamine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mypherhistamine" height="50" width="50" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
